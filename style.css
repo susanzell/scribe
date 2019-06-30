@@ -59,13 +59,14 @@ button {
 /* Rectangle 2.1 */
 #creative {
 
-  position: absolute;
+ /* position: absolute; */
   width: 157px;
   height: 168px;
-  left: 22px;
-  top: 281px;
+  /* left: 22px;
+  top: 281px; */
 
   background: url(shutterstock_1012755793.jpg), #FFFFFF;
   border-radius: 10px;
+  border: 1px black solid;
 }
 
